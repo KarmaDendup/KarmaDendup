@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 I,m interested in learning coding.
 I'm currently learning how to code.
 I,m looking to collaborate on learning Python.
-You can reach me through Kdhendup9@gmail.com
+You can reach me through kdhendup9@gmail.com
 
